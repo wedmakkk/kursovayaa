@@ -1,0 +1,9 @@
+﻿  Functions.cpp
+  Source.cpp
+  Создание кода...
+F:\2 kurs\love is\никита курсач\Source.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+F:\2 kurs\love is\никита курсач\Source.cpp(6,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+F:\2 kurs\love is\никита курсач\Source.cpp(13,24): warning C4101: rows2: неиспользованная локальная переменная
+F:\2 kurs\love is\никита курсач\Source.cpp(13,31): warning C4101: what: неиспользованная локальная переменная
+F:\2 kurs\love is\никита курсач\Source.cpp(13,17): warning C4101: rows1: неиспользованная локальная переменная
+  2k.vcxproj -> F:\2 kurs\love is\никита курсач\x64\Debug\2k.exe
